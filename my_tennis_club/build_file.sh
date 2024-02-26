@@ -1,2 +1,4 @@
 pip install -r requirements.txt
-python3.9 manage.py collectstatic --noinput
+
+# Collect static files
+python manage.py collectstatic --no-input
