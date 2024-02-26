@@ -1,0 +1,38 @@
+/* Apply styles to the body element */
+body {
+    background-color: rgb(135, 169, 180);
+    font-family: verdana;
+    text-align: center;
+}
+
+/* Apply styles to the th elements inside a table with class 'table' */
+.table th {
+    font-weight: normal;
+    color: rgb(0, 0, 0);
+}
+
+/* Add some styles to the table */
+.table table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 40px;
+}
+
+.table th, .table td {
+    padding: 8px;
+    border: 1px solid #ddd;
+}
+
+/* Add styles for the paragraph */
+.table p {
+    margin-top: 10px;
+    font-style: italic;
+    
+}
+h1{
+    margin-top: 40;
+}
+.words{
+
+    color: aliceblue;
+}
